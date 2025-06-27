@@ -165,17 +165,17 @@ See [`NOTICE`](./NOTICE) for important information about attribution, DMCA prote
 
 ## 🍱 Support
 
-★ **Bitcoin (BTC)**
+★ **Bitcoin (BTC)**  
 `1MorphXyhHpgmYSfvwUpWojphfLTjrNXc7`
 
-★ **Monero (XMR)**
+★ **Monero (XMR)**  
 `86VAmEogaZF5WDwR3SKtEC6HSEUh6JPA1gVGcny68XmSJ1pYBbGLmdzEB1ZzGModLBXkG3WbRv12mSKv4KnD8i9w7VTg2uu`
 
-★ **Dash (DASH)**
+★ **Dash (DASH)**  
 `XtNuNfgaEXFKhtfxAKuDkdysxUqaZm7TDX`
 
-**We also value early privacy coins such as:**
-★ **Bytecoin (BCN)**
+**We also value early privacy coins such as:**  
+★ **Bytecoin (BCN)**  
 `bcnZNMyrDrweQgoKH6zpWaE2kW1VZRsX3aDEqnxBVEQfjNnPK6vvNMNRPA4S7YxfhsStzyJeP16woK6G7cRBydZm2TvLFB2eeR`
 
 🙏 *Thank you for supporting independent research and ethical technology.*
@@ -184,11 +184,11 @@ See [`NOTICE`](./NOTICE) for important information about attribution, DMCA prote
 
 ## 👤 Author & Contact
 
-🔗 GitHub: https://github.com/BitMorphX
-✉️ Email: BitMorphX@proton.me
+🔗 GitHub: https://github.com/BitMorphX  
+✉️ Email: BitMorphX@proton.me  
 💬 Telegram: https://t.me/BitMorphX
 
-> _“I morph bits, not to break, but to understand.”_
+> _“I morph bits, not to break, but to understand.”_  
 > — **BitMorphX**
 
 ---
