@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="tokens_scanner banner" width="100%" />
+</p>
+
 # 🛰️ Token Contract Scanner (`tokens_scanner.py`)
 
 This script continuously scans and logs **newly created cryptocurrency token contracts** on the **Ethereum** and **Polygon** networks. It is designed for blockchain analysts, developers, and educators who want to monitor market activity and discover newly deployed tokens in real-time.
@@ -45,11 +49,16 @@ To use this scanner, you need a Mobula API key:
 
 ## 📂 Running the Program
 
-1. Ensure required dependencies are installed
-2. Run the script via terminal:
+### Option 1 – via Python:
 
 ```bash
-python3 tokens_scanner.py
+python tokens_scanner.py
+```
+
+### Option 2 – via `.bat` launcher (Windows):
+
+```cmd
+tokens_scanner.bat
 ```
 
 The scanner will automatically:
@@ -67,7 +76,7 @@ The scanner will automatically:
 Install the required Python packages:
 
 ```bash
-pip install requests colorama
+pip install requests
 ```
 
 Or use the provided requirements file:
@@ -75,6 +84,8 @@ Or use the provided requirements file:
 ```bash
 pip install -r requirements.txt
 ```
+
+> Python 3.6+ is required.
 
 ---
 
@@ -87,42 +98,100 @@ pip install -r requirements.txt
 
 ---
 
-## 📃 License
+## 📁 Project Structure
 
-MIT License — see [LICENSE](LICENSE)
+```text
+tokens_scanner/
+├── assets/
+│   └── banner.png
+├── .vscode/
+│   ├── settings.json
+│   ├── launch.json
+│   ├── tasks.json
+│   └── extensions.json
+├── .github/
+│   └── FUNDING.yml
+├── tokens_scanner.py
+├── tokens_scanner.bat
+├── LICENSE
+├── NOTICE
+├── ETHICS.md
+├── README.md
+├── requirements.txt
+├── RELEASE_v1.0.0.md
+└── RELEASE_v2.0.0.md
+```
 
 ---
 
-## ⚠️ Disclaimer
+### 🔁 GitHub Contribution Streak
 
-This software is intended for **educational and informational purposes only**.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BitMorphX&theme=tokyonight"/>
+</p>
 
-- Many newly deployed tokens may be **scams**, **honeypots**, or contain **malicious logic**
-- Always perform your own research before making any financial decisions
-- The author **assumes no responsibility** for any loss, misuse, or outcomes arising from use of this software
-- **Do not share your API key** — it can be abused or exploited
-
-By using this software, you agree to all terms and accept full responsibility for your actions.
 
 ---
 
-## 💸 Donations
+## ⚠️ DISCLAIMER
 
-If you find this tool helpful and would like to support further development:
+This software is intended **strictly for educational and research purposes**.
 
-- **Bitcoin (BTC):**  
-  `1MorphXyhHpgmYSfvwUpWojphfLTjrNXc7`
+- All provided data is for informational use only and **not financial advice**  
+- The creator **bears no responsibility** for losses or damages resulting from usage  
+- Use it at **your own risk** and always verify independently
 
-- **Monero (XMR):**  
-  `86VAmEogaZF5WDwR3SKtEC6HSEUh6JPA1gVGcny68XmSJ1pYBbGLmdzEB1ZzGModLBXkG3WbRv12mSKv4KnD8i9w7VTg2uu`
+> **Use responsibly. Learn ethically. Contribute honestly.**
 
-- **Dash (DASH):**  
-  `XtNuNfgaEXFKhtfxAKuDkdysxUqaZm7TDX`
+---
 
-- **Bytecoin (BCN):**  
-  `bcnZNMyrDrweQgoKH6zpWaE2kW1VZRsX3aDEqnxBVEQfjNnPK6vvNMNRPA4S7YxfhsStzyJeP16woK6G7cRBydZm2TvLFB2eeR`
+## ⚖️ Ethical Use
 
-🙏 Thank you for supporting independent developers and ethical technology.
+This tool is created strictly for **research and educational purposes**.  
+See [ETHICS](./ETHICS.md) for the full statement.
 
-> *"I morph bits not to break, but to understand."*  
+---
+
+## 📜 License
+
+Licensed under the [Apache 2.0 License](./LICENSE)
+
+---
+
+## 📣 NOTICE
+
+See [`NOTICE`](./NOTICE) for important information about attribution, DMCA protection, and reuse permissions.
+
+---
+
+## 🍱 Support
+
+★ **Bitcoin (BTC)**  
+`1MorphXyhHpgmYSfvwUpWojphfLTjrNXc7`
+
+★ **Monero (XMR)**  
+`86VAmEogaZF5WDwR3SKtEC6HSEUh6JPA1gVGcny68XmSJ1pYBbGLmdzEB1ZzGModLBXkG3WbRv12mSKv4KnD8i9w7VTg2uu`
+
+★ **Dash (DASH)**  
+`XtNuNfgaEXFKhtfxAKuDkdysxUqaZm7TDX`
+
+**We also value early privacy coins such as:**  
+★ **Bytecoin (BCN)**  
+`bcnZNMyrDrweQgoKH6zpWaE2kW1VZRsX3aDEqnxBVEQfjNnPK6vvNMNRPA4S7YxfhsStzyJeP16woK6G7cRBydZm2TvLFB2eeR`
+
+🙏 *Thank you for supporting independent research and ethical technology.*
+
+---
+
+## 👤 Author & Contact
+
+🔗 GitHub: https://github.com/BitMorphX  
+✉️ Email: BitMorphX@proton.me  
+💬 Telegram: https://t.me/BitMorphX
+
+> _“I morph bits, not to break, but to understand.”_  
 > — **BitMorphX**
+
+---
+
+© BitMorphX – All rights reserved.
