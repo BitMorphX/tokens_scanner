@@ -2,7 +2,7 @@
   <img src="assets/banner.png" alt="tokens_scanner banner" width="100%" />
 </p>
 
-# 🛰️ Token Contract Scanner (`tokens_scanner.py`)
+# 🛰️ Tokens Contract Scanner (`tokens_scanner.py`)
 
 This script continuously scans and logs **newly created cryptocurrency token contracts** on the **Ethereum** and **Polygon** networks. It is designed for blockchain analysts, developers, and educators who want to monitor market activity and discover newly deployed tokens in real-time.
 
