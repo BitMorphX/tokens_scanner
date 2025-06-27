@@ -27,7 +27,7 @@ This script continuously scans and logs **newly created cryptocurrency token con
 
 To use this scanner, you need a Mobula API key:
 
-1. Visit the official documentation:  
+1. Visit the official documentation:
    [https://docs.mobula.io/introduction](https://docs.mobula.io/introduction)
 2. Sign in or register an account
 3. Generate your personal API key
@@ -127,9 +127,8 @@ tokens_scanner/
 ### 🔁 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BitMorphX&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=BitMorphX&theme=tokyonight" alt="GitHub Streak"/>
 </p>
-
 
 ---
 
@@ -137,8 +136,8 @@ tokens_scanner/
 
 This software is intended **strictly for educational and research purposes**.
 
-- All provided data is for informational use only and **not financial advice**  
-- The creator **bears no responsibility** for losses or damages resulting from usage  
+- All provided data is for informational use only and **not financial advice**
+- The creator **bears no responsibility** for losses or damages resulting from usage
 - Use it at **your own risk** and always verify independently
 
 > **Use responsibly. Learn ethically. Contribute honestly.**
@@ -147,7 +146,7 @@ This software is intended **strictly for educational and research purposes**.
 
 ## ⚖️ Ethical Use
 
-This tool is created strictly for **research and educational purposes**.  
+This tool is created strictly for **research and educational purposes**.
 See [ETHICS](./ETHICS.md) for the full statement.
 
 ---
@@ -166,17 +165,17 @@ See [`NOTICE`](./NOTICE) for important information about attribution, DMCA prote
 
 ## 🍱 Support
 
-★ **Bitcoin (BTC)**  
+★ **Bitcoin (BTC)**
 `1MorphXyhHpgmYSfvwUpWojphfLTjrNXc7`
 
-★ **Monero (XMR)**  
+★ **Monero (XMR)**
 `86VAmEogaZF5WDwR3SKtEC6HSEUh6JPA1gVGcny68XmSJ1pYBbGLmdzEB1ZzGModLBXkG3WbRv12mSKv4KnD8i9w7VTg2uu`
 
-★ **Dash (DASH)**  
+★ **Dash (DASH)**
 `XtNuNfgaEXFKhtfxAKuDkdysxUqaZm7TDX`
 
-**We also value early privacy coins such as:**  
-★ **Bytecoin (BCN)**  
+**We also value early privacy coins such as:**
+★ **Bytecoin (BCN)**
 `bcnZNMyrDrweQgoKH6zpWaE2kW1VZRsX3aDEqnxBVEQfjNnPK6vvNMNRPA4S7YxfhsStzyJeP16woK6G7cRBydZm2TvLFB2eeR`
 
 🙏 *Thank you for supporting independent research and ethical technology.*
@@ -185,11 +184,11 @@ See [`NOTICE`](./NOTICE) for important information about attribution, DMCA prote
 
 ## 👤 Author & Contact
 
-🔗 GitHub: https://github.com/BitMorphX  
-✉️ Email: BitMorphX@proton.me  
+🔗 GitHub: https://github.com/BitMorphX
+✉️ Email: BitMorphX@proton.me
 💬 Telegram: https://t.me/BitMorphX
 
-> _“I morph bits, not to break, but to understand.”_  
+> _“I morph bits, not to break, but to understand.”_
 > — **BitMorphX**
 
 ---
