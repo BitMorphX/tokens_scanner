@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run Tokens Scanner",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/tokens_scanner.py",
+      "console": "integratedTerminal"
+    }
+  ]
+}
