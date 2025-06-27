@@ -1,4 +1,4 @@
-# 📦 Release Notes — Token Contract Scanner `v1.0.0`
+# 📦 Release Notes — Tokens Contract Scanner `v1.0.0`
 
 **Release Date:** 2025-05-18  
 **Version:** 1.0.0  
